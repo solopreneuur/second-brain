@@ -2,8 +2,9 @@
 title: Week of Oct 25 (T-4 weeks)
 date: 2026-10-25
 phase: none
-drive_id: 1tzOSCpxLBiPf6XnQ-sVnMsN_DkOaCb7EvRHv9GNn_ms
-drive_modified: 2026-10-26T00:12:13.550Z
+original_drive_id: 1tzOSCpxLBiPf6XnQ-sVnMsN_DkOaCb7EvRHv9GNn_ms
+original_drive_modified: 2026-10-26T00:12:13.550Z
+note: On 2026-11-01 this Drive doc's reflection was replaced with new text (see 2026-11-01-week-of-oct-25-end-of-week-reflection.md). This file keeps the original 2026-10-25 text; drive_id moved to the new entry so syncs don't overwrite this one.
 ---
 
 # Reflection
