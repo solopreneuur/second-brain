@@ -6,3 +6,4 @@ Also known as: autonomation
 ## Cards
 
 - 2026-10-31 · [A loom patent paid for Toyota](../cards/2026/10/2026-10-31-10-toyoda-loom-patent-sale.md) · 5 Unknown origin · Founders
+- 2026-11-02 · [A loom taught Toyota to stop the line](../cards/2026/11/2026-11-02-23-loom-taught-toyota-to-stop.md) · 7 Far-field · Founders
