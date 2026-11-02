@@ -90,7 +90,7 @@ Suggested 2026-10-18 (five weeks before Vietnam); #10–13 added 2026-11-01. Rec
 | 7 | Close AI Meadow with 3 lessons; delete frozen lists; decide on Tasneem once | no dead lists in the doc | suggested |
 | 8 | Host the coffee event with Toni | happens before Vietnam | already doing it: hosted two cafes at his apartment; flakes came from the Sunday-morning slot, which he is changing (his words, 2026-10-27) |
 | 9 | Outside help for eating, first appointment before the trip | first session happens before Vietnam | 2026-10-25: he asked who to talk to; 2026-11-01: deferred to after the trip. Revised 11-01: start the search now, book first session for the post-trip window |
-| 10 | Book the GCP exam (after asking Vismark/Phil about hours) | exam date confirmed by 11-03, study blocks on calendar | suggested 2026-11-01 |
+| 10 | Book the GCP exam (after asking Vismark/Phil about hours) | exam date confirmed by 11-03, study blocks on calendar | 2026-11-01 his plan: cert is required for work; cram before the trip (trip Nov 25 – Dec 14); 5h/day x 6 days = 90h; work block 4h → 7h with 5h of it studying, ~5h Saturday mornings; he'll rebuild the calendar himself |
 | 11 | Defer the work, not the ask: 3 texts setting December dates (UGC woman, Ally, Tamer) | 3 dates by 11-08 | suggested 2026-11-01 |
 | 12 | Rewrite the week's checklist to match decisions (3 videos, GCP, no Friday out, patches, weight) and cut or keep STG/reading explicitly | next Sunday checks against the real plan | suggested 2026-11-01 |
 | 13 | Run reposts / trial reels of past winners during the trip instead of a full posting break | account posts during the trip with no filming | suggested 2026-11-01 |
@@ -114,6 +114,8 @@ Suggested 2026-10-18 (five weeks before Vietnam); #10–13 added 2026-11-01. Rec
 13. He may be the distribution half, not the one looking for it: 10 months of building distribution vs. his own moat theory (relationships + industry entrenchment). The complementary partner may be the entrenched-domain person. (2026-10-30)
 
 ## His verdicts
+
+- **2026-11-01 — confirmed** no Friday nights out for the 3 weeks before the trip ("Friday's hard rule" = Friday nights out). Trip dates: Nov 25 – Dec 14. GCP cert is for work.
 
 - **2026-10-19 — rejected** the long-range fulfillment hypothesis (builder-explainer in public → small media/software studio → family-centered independence). His words: "No these are all assumptions and things change." Don't project long-range life paths from the archive; stick to observed patterns and what's changed over time.
 
