@@ -12,7 +12,7 @@ source_name: Alter & Oppenheimer, PNAS
 strategy: S14
 featured: false
 wildcard: false
-status: [shown, deepened]
+status: [shown, deepened, bridged]
 review: hook 2 · surprise 3 · travels 2
 ---
 
