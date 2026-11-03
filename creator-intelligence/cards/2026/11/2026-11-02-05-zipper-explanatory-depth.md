@@ -12,7 +12,7 @@ source_name: Rozenblit & Keil, Cognitive Science (2002)
 strategy: S13
 featured: true
 wildcard: false
-status: [shown, deepened]
+status: [shown, deepened, bridged]
 review: hook 3 · surprise 3 · travels 3
 ---
 
