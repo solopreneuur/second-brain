@@ -12,7 +12,7 @@ source_name: Nintendo Life
 strategy: S09
 featured: false
 wildcard: true
-status: [shown, deepened]
+status: [shown, deepened, bridged]
 review: hook 3 · surprise 3 · travels 2
 ---
 
