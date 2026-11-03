@@ -12,7 +12,7 @@ source_name: Wilson et al., "Just think: The challenges of the disengaged mind,"
 strategy: S03
 featured: true
 wildcard: false
-status: [shown]
+status: [shown, bridged]
 review: hook 3 · surprise 3 · travels 3
 ---
 
