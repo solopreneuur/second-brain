@@ -12,7 +12,7 @@ source_name: The Diary of a CEO, at 00:08:13
 strategy: S12
 featured: true
 wildcard: false
-status: [shown, deepened]
+status: [shown, deepened, bridged]
 review: hook 3 · surprise 3 · travels 2
 ---
 
