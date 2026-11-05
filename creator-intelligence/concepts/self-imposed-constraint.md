@@ -9,3 +9,6 @@ Also known as: commitment device
 - 2026-11-02 · [Rakuten's two-year English ultimatum](../cards/2026/11/2026-11-02-17-rakuten-englishnization.md) · 3 Wrong decision that worked · Founders
 - 2026-11-02 · [Hermès won't make a Birkin faster](../cards/2026/11/2026-11-02-25-hermes-caps-production.md) · 1 Hidden reason · Marketing
 - 2026-11-03 · ["Raise it and I'll kill you"](../cards/2026/11/2026-11-03-01-costco-hot-dog-kill-you.md) · 3 Wrong decision that worked · Founders
+- 2026-11-05 · [NASA wrote its rules before the crisis](../cards/2026/11/2026-11-05-05-nasa-mission-rules-before-crisis.md) · 7 Far-field · Founders
+- 2026-11-05 · [Craigslist turned down $11 billion](../cards/2026/11/2026-11-05-13-craigslist-refused-eleven-billion.md) · 3 Wrong decision that worked · Founders
+- 2026-11-05 · [A supermarket that shuts down to grow](../cards/2026/11/2026-11-05-25-pang-dong-lai-self-imposed-limits.md) · 3 Wrong decision that worked · Founders
