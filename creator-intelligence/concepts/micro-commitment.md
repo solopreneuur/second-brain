@@ -6,3 +6,4 @@ Also known as: -
 ## Cards
 
 - 2026-11-02 · ["Learn More" beat "Sign Up" by 40%](../cards/2026/11/2026-11-02-19-obama-learn-more-button.md) · 4 Tiny change, big result · Marketing
+- 2026-11-06 · [One word doubled GoCardless demos](../cards/2026/11/2026-11-06-23-gocardless-watch-a-demo.md) · 4 Tiny change, big result · Marketing
