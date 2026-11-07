@@ -112,6 +112,7 @@ Suggested 2026-10-18 (five weeks before Vietnam); #10–13 added 2026-11-01. Rec
 14. The post-trip window is doing the job the next milestone always does: holding every decision and the scariest asks safely in the future. (2026-11-01)
 15. The B2B moat he chose (relationships + sales) runs straight through the asking he avoids; the venture that fits him needs that muscle, and the 3-week plan defers every rep of it. (2026-11-01)
 13. He may be the distribution half, not the one looking for it: 10 months of building distribution vs. his own moat theory (relationships + industry entrenchment). The complementary partner may be the entrenched-domain person. (2026-10-30)
+14. When content became the main identity and the cut stalled, he lost the one scoreboard he controlled and was winning; self-worth funneled into the scoreboard he controls least. (2026-11-07)
 
 ## His verdicts
 
@@ -126,6 +127,8 @@ Suggested 2026-10-18 (five weeks before Vietnam); #10–13 added 2026-11-01. Rec
 - **2026-10-30 — pushed back** on hypothesis 13 (he's "the distribution half"). His words: "im not fully anything. Im not fully a builder or really a distirbution guy... still am at around 1500 followers"; thinks the combination is powerful, world to be decided ("something in the marketing space fs"). Leaning toward mapping problems for a B2B client or someone who owns creator distribution rather than content alone. Stated: energy has always come from people; "if i was in minecraft creative mode" he'd make things with friends; got "pigenholed with ai meadow... simply because there wasn't another perspective there"; "i do 10x better when i get inpit from someone."
 
 - **2026-11-03 — his own read (chat):** felt content made him regress ("made me fatter, weakend my confidence... stupid comparison mindset... younger me was wiser and more certain"). Asked what he wants back from younger him: "the feeling of only competing with yourself more than anything." His distinction: "as a founder u feel like ur all in it together and its a real struggle, with content its like oh yeah some guy made it in 6 months." Evidence check given: weight was 246 (2024-07) and lowest ever 187.2 (2026-02) during content; regain ties to how content is run (his 10-25 words); comparison predates content (2024-10-27, 2025-03-18) but escalated (2026-06-07); 2024 entries show uncertainty, not certainty (08-18, 10-27).
+
+- **2026-11-07 — chat (1:30am):** "on social media you are constantly shipped winners which has the positive effect of giving you this learning loop technically but a detrimental effect of this comparison mindset"; believes it "entirely contributed to me gaining weight over the year first time this has happend to me since I started the cut"; "being a founder founder is just like so much more me"; not making decisions; asking how to be "anti fragile and more resilient" beyond "detach from the outcome."
 
 ## Faded or resolved
 
