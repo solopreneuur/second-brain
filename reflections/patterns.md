@@ -132,6 +132,7 @@ Suggested 2026-10-18 (five weeks before Vietnam); #10–13 added 2026-11-01. Rec
 - **2026-11-07 — chat, cont.:** "I don't respect creators not the same way I respect founders... so much of the time it's just people find a forumla and milk the shit out of it" ("a lot of them work really hard etc").
 - **2026-11-07 — confirmed:** creator identity is a values conflict ("1 absolutely 1000%": content serves the founder path, not becoming a creator); looking down on creators partly self-protection ("probably to a degree... I def do look down on some of them fs"). Respects very few creators; named Mino Lee "because he grew 5 different accounts in different niches, he thinks about it algorithmically."
 - **2026-11-07 — chat, 1:48am:** asking "am I the right fit for this": "I don't scroll I don't like scrolling I have such a hard time with hooks even now"; dislikes parasocial relationships with fans; "I only like [it] when ur people ik in real life cause they know me fr."
+- **2026-11-07 — chat, cont.:** asking "am I the right fit for this": "I don't scroll I don't like scrolling I have such a hard time with hooks even now I don't respect most creators"; dislikes parasocial relationships, has clowned fans who DM'd him ("go hit the gym"); "I only like HR line when ur people ik in real life cause they know me fr."
 
 ## Faded or resolved
 
