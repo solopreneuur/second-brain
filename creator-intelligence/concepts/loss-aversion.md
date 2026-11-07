@@ -6,3 +6,4 @@ Also known as: -
 ## Cards
 
 - 2026-11-03 · [One header line moved a country's tax rate](../cards/2026/11/2026-11-03-26-denmark-tax-reminder-loss-frame.md) · 2 Shocking number · Marketing
+- 2026-11-07 · [A bonus teachers could lose doubled scores](../cards/2026/11/2026-11-07-09-teacher-bonus-loss-aversion.md) · 2 Shocking number · Psychology

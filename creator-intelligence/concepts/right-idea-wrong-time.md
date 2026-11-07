@@ -9,3 +9,4 @@ Also known as: too early
 - 2026-11-02 · [Corning's glass with no customer](../cards/2026/11/2026-11-02-03-corning-shelved-gorilla-glass.md) · 5 Unknown origin · Founders
 - 2026-11-03 · [The smartphone that died in 1994](../cards/2026/11/2026-11-03-04-general-magic-smartphone-1994.md) · 5 Unknown origin · Founders
 - 2026-11-06 · [A $5bn satellite network's fire sale](../cards/2026/11/2026-11-06-05-iridium-satellites-fire-sale.md) · 3 Wrong decision that worked · Founders
+- 2026-11-07 · ["No business being where they are"](../cards/2026/11/2026-11-07-03-qualcomm-cdma-laws-of-physics.md) · 3 Wrong decision that worked · Founders

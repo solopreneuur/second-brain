@@ -6,3 +6,4 @@ Also known as: -
 ## Cards
 
 - 2026-11-06 · [IKEA's ad was a pregnancy test](../cards/2026/11/2026-11-06-14-ikea-pregnancy-test-ad.md) · 4 Tiny change, big result · Marketing
+- 2026-11-07 · [The milk carton was a self-refreshing billboard](../cards/2026/11/2026-11-07-26-milk-carton-missing-children.md) · 5 Unknown origin · Marketing

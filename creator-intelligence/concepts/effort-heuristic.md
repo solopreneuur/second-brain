@@ -7,3 +7,4 @@ Also known as: -
 
 - 2026-11-02 · [An 18-hour poem is rated better](../cards/2026/11/2026-11-02-10-effort-heuristic-poem.md) · 2 Shocking number · Psychology
 - 2026-11-06 · [A photocopied note doubled spending](../cards/2026/11/2026-11-06-20-photocopied-note-doubles-spending.md) · 2 Shocking number · Marketing
+- 2026-11-07 · [Naming the hours beat naming the benefit](../cards/2026/11/2026-11-07-14-naming-the-hours-ad.md) · 2 Shocking number · Marketing

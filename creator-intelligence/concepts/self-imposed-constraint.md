@@ -13,3 +13,4 @@ Also known as: commitment device
 - 2026-11-05 · [Craigslist turned down $11 billion](../cards/2026/11/2026-11-05-13-craigslist-refused-eleven-billion.md) · 3 Wrong decision that worked · Founders
 - 2026-11-05 · [A supermarket that shuts down to grow](../cards/2026/11/2026-11-05-25-pang-dong-lai-self-imposed-limits.md) · 3 Wrong decision that worked · Founders
 - 2026-11-06 · [Google's money-losing lucky button](../cards/2026/11/2026-11-06-13-google-feeling-lucky-costs-money.md) · 1 Hidden reason · Founders
+- 2026-11-07 · [One order forced In-N-Out's burger cap](../cards/2026/11/2026-11-07-13-in-n-out-100x100-cap.md) · 3 Wrong decision that worked · Founders
