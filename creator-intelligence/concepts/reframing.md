@@ -10,3 +10,6 @@ Also known as: framing
 - 2026-11-03 · [Carlsberg's "Probably Not" ads](../cards/2026/11/2026-11-03-03-carlsberg-probably-not.md) · 3 Wrong decision that worked · Marketing
 - 2026-11-03 · ["Field-Grown" outsold "Meat-Free"](../cards/2026/11/2026-11-03-20-field-grown-beats-meat-free.md) · 4 Tiny change, big result · Marketing
 - 2026-11-07 · [The Marlboro cowboy won a real elimination round](../cards/2026/11/2026-11-07-02-marlboro-cowboy-elimination.md) · 1 Hidden reason · Marketing
+- 2026-11-08 · [One Verb Beat Another, Twice](../cards/2026/11/2026-11-08-11-get-beat-order-ab-test.md) · 4 Tiny change, big result · Marketing
+- 2026-11-08 · [Buick's Ads Doubted Buick](../cards/2026/11/2026-11-08-20-buick-ads-doubt-buick.md) · 3 Wrong decision that worked · Marketing
+- 2026-11-08 · [Germany's Bottle Deposit Backfired Into Success](../cards/2026/11/2026-11-08-29-germany-bottle-deposit-backfire.md) · 4 Tiny change, big result · Marketing

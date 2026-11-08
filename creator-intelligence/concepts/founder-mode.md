@@ -7,3 +7,4 @@ Also known as: -
 
 - 2026-11-05 · [Airbnb's CEO calls himself terrible](../cards/2026/11/2026-11-05-28-chesky-great-founder-terrible-ceo.md) · 8 Unexpected claim · Founders
 - 2026-11-07 · [Spotify's founder deliberately hires doubt](../cards/2026/11/2026-11-07-07-spotify-ek-wants-naysayer.md) · 8 Unexpected claim · Founders
+- 2026-11-08 · [Anthropic's CEO Has One Direct Report](../cards/2026/11/2026-11-08-28-anthropic-one-direct-report.md) · Unshaped · Founders

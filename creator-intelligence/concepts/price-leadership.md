@@ -6,3 +6,4 @@ Also known as: tacit collusion (when done by algorithm)
 ## Cards
 
 - 2026-10-31 · [Amazon's algorithm that raised rivals' prices](../cards/2026/10/2026-10-31-19-amazon-project-nessie.md) · 1 Hidden reason · Founders
+- 2026-11-08 · [A Data Broker Became the Messenger](../cards/2026/11/2026-11-08-22-chicken-cartel-data-broker.md) · 1 Hidden reason · Founders
