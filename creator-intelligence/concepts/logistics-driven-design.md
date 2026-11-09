@@ -10,3 +10,4 @@ Also known as: -
 - 2026-11-07 · [Heinz spent 8 years removing one tiny part](../cards/2026/11/2026-11-07-06-heinz-ketchup-cap-no-silicone.md) · 1 Hidden reason · Marketing
 - 2026-11-07 · [E-commerce boxes are turning square for robots](../cards/2026/11/2026-11-07-20-ecommerce-boxes-turn-square.md) · 1 Hidden reason · Marketing
 - 2026-11-08 · [A Billing Formula Shrank Your Boxes](../cards/2026/11/2026-11-08-23-dim-pricing-shrank-boxes.md) · 4 Tiny change, big result · Marketing
+- 2026-11-09 · [Pringles' can shape is a shipping fix](../cards/2026/11/2026-11-09-16-pringles-can-shelf-life.md) · 1 Hidden reason · Marketing

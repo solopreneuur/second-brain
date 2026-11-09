@@ -15,3 +15,5 @@ Also known as: commitment device
 - 2026-11-06 · [Google's money-losing lucky button](../cards/2026/11/2026-11-06-13-google-feeling-lucky-costs-money.md) · 1 Hidden reason · Founders
 - 2026-11-07 · [One order forced In-N-Out's burger cap](../cards/2026/11/2026-11-07-13-in-n-out-100x100-cap.md) · 3 Wrong decision that worked · Founders
 - 2026-11-08 · [Chick-fil-A Never Calculated the Cost](../cards/2026/11/2026-11-08-13-chick-fil-a-never-calculated.md) · 3 Wrong decision that worked · Founders
+- 2026-11-09 · [Chouinard killed his best-selling product](../cards/2026/11/2026-11-09-12-chouinard-killed-pitons.md) · 3 Wrong decision that worked · Founders
+- 2026-11-09 · [Oda vowed to skip his parents' funeral](../cards/2026/11/2026-11-09-14-oda-funeral-vow.md) · Unshaped · Founders

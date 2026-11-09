@@ -14,3 +14,5 @@ Also known as: -
 - 2026-11-06 · [YouTube began as a dating site](../cards/2026/11/2026-11-06-29-youtube-started-as-dating-site.md) · 5 Unknown origin · Marketing
 - 2026-11-07 · [Shopify was a failing snowboard shop](../cards/2026/11/2026-11-07-22-shopify-snowboard-shop.md) · 5 Unknown origin · Founders
 - 2026-11-07 · [Hasbro spent two decades selling pencils](../cards/2026/11/2026-11-07-25-hasbro-sold-pencils-first.md) · 5 Unknown origin · Founders
+- 2026-11-09 · [A mislabeled bottle redesigned pharmacy](../cards/2026/11/2026-11-09-07-clearrx-pill-bottle.md) · 1 Hidden reason · Marketing
+- 2026-11-09 · [Groupon's ancestor was protest software](../cards/2026/11/2026-11-09-19-groupon-the-point.md) · 5 Unknown origin · Marketing

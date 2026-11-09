@@ -10,3 +10,4 @@ Also known as: -
 - 2026-11-05 · [Burger King's CEO published his number](../cards/2026/11/2026-11-05-01-burger-king-ceo-published-number.md) · 3 Wrong decision that worked · Marketing
 - 2026-11-08 · [Supercell's CEO Toasts His Own Failure](../cards/2026/11/2026-11-08-02-supercell-ceo-toasts-failure.md) · 3 Wrong decision that worked · Founders
 - 2026-11-08 · [Blinkist Named the Fear Upfront](../cards/2026/11/2026-11-08-14-blinkist-names-fear-upfront.md) · 4 Tiny change, big result · Marketing
+- 2026-11-09 · [Intel's CEO couldn't say the words](../cards/2026/11/2026-11-09-23-intel-grove-dram-exit.md) · 3 Wrong decision that worked · Founders
