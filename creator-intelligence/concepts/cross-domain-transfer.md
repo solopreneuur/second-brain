@@ -13,3 +13,4 @@ Also known as: cross-industry learning, analogical problem solving
 - 2026-11-07 · [Pianos are tuned to be equally wrong](../cards/2026/11/2026-11-07-30-pianos-equal-temperament.md) · 7 Far-field · Psychology
 - 2026-11-08 · [Daniel Ek's 500-Hour Rule](../cards/2026/11/2026-11-08-01-daniel-ek-500-hour-rule.md) · 8 Unexpected claim · Founders
 - 2026-11-08 · [Wildfire Command Borrowed a Management Book](../cards/2026/11/2026-11-08-25-wildfire-command-management-book.md) · 7 Far-field · Founders
+- 2026-11-10 · [Blackjack math built a hedge fund](../cards/2026/11/2026-11-10-21-blackjack-math-hedge-fund.md) · 7 Far-field · Founders

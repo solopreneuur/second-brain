@@ -6,3 +6,4 @@ Also known as: -
 ## Cards
 
 - 2026-11-08 · [Ferrari Began as a Legal Workaround](../cards/2026/11/2026-11-08-19-ferrari-legal-workaround-company.md) · 5 Unknown origin · Founders
+- 2026-11-10 · [Fired, then he built the vacuum](../cards/2026/11/2026-11-10-03-dyson-fired-built-vacuum.md) · 5 Unknown origin · Founders

@@ -9,3 +9,4 @@ Also known as: processing fluency
 - 2026-11-02 · [Pronounceable stock tickers beat the market](../cards/2026/11/2026-11-02-24-pronounceable-tickers.md) · 9 Unfamiliar concept · Psychology
 - 2026-11-04 · [All-caps subject lines won the test](../cards/2026/11/2026-11-04-07-all-caps-subject-lines-won.md) · 4 Tiny change, big result · Marketing
 - 2026-11-09 · [Easy usernames make strangers look honest](../cards/2026/11/2026-11-09-26-ebay-username-fluency-trust.md) · 4 Tiny change, big result · Psychology
+- 2026-11-10 · [A hard font cured a false belief](../cards/2026/11/2026-11-10-23-hard-font-cured-false-belief.md) · 2 Shocking number · Psychology

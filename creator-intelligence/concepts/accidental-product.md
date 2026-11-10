@@ -16,3 +16,4 @@ Also known as: -
 - 2026-11-07 · [Hasbro spent two decades selling pencils](../cards/2026/11/2026-11-07-25-hasbro-sold-pencils-first.md) · 5 Unknown origin · Founders
 - 2026-11-09 · [A mislabeled bottle redesigned pharmacy](../cards/2026/11/2026-11-09-07-clearrx-pill-bottle.md) · 1 Hidden reason · Marketing
 - 2026-11-09 · [Groupon's ancestor was protest software](../cards/2026/11/2026-11-09-19-groupon-the-point.md) · 5 Unknown origin · Marketing
+- 2026-11-10 · [Clorox wasn't built for laundry](../cards/2026/11/2026-11-10-12-clorox-industrial-bleach-origin.md) · 5 Unknown origin · Founders
