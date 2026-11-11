@@ -12,3 +12,5 @@ Also known as: -
 - 2026-11-08 · [Southwest Ends Its Open Seating](../cards/2026/11/2026-11-08-10-southwest-ends-open-seating.md) · 3 Wrong decision that worked · Founders
 - 2026-11-08 · [Office Thermostats Assume One Body](../cards/2026/11/2026-11-08-24-office-thermostat-one-body.md) · 6 Day-walk · Psychology
 - 2026-11-08 · [The Code on Every Bottle Cap](../cards/2026/11/2026-11-08-26-bottle-cap-neck-code.md) · 1 Hidden reason · Marketing
+- 2026-11-11 · [The quarter was built for vending machines](../cards/2026/11/2026-11-11-02-quarter-vending-machines.md) · 6 Day-walk · Founders
+- 2026-11-11 · [A game's bug still shapes Windows memory](../cards/2026/11/2026-11-11-04-windows-descender-bug.md) · 1 Hidden reason · Founders
