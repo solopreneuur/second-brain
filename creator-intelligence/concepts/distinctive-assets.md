@@ -6,3 +6,4 @@ Also known as: trade dress
 ## Cards
 
 - 2026-11-03 · [A bottle built to survive breaking](../cards/2026/11/2026-11-03-06-coke-bottle-recognizable-dark.md) · 5 Unknown origin · Marketing
+- 2026-11-12 · [Liquid Death sponsored a fictional death show](../cards/2026/11/2026-11-12-10-liquid-death-running-man-sponsor.md) · 1 Hidden reason · Marketing

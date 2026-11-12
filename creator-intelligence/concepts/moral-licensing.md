@@ -6,3 +6,4 @@ Also known as: -
 ## Cards
 
 - 2026-11-10 · [Reusable bags license junk food](../cards/2026/11/2026-11-10-14-reusable-bag-moral-licensing.md) · 9 Unfamiliar concept · Psychology
+- 2026-11-12 · [A mandatory tote bag kills its own loophole](../cards/2026/11/2026-11-12-08-mandatory-bags-kill-licensing.md) · 9 Unfamiliar concept · Psychology

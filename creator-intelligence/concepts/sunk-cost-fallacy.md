@@ -6,3 +6,4 @@ Also known as: -
 ## Cards
 
 - 2026-11-02 · [Buffett called his own purchase a mistake, the same year](../cards/2026/11/2026-11-02-26-buffett-sunk-cost-letters.md) · 3 Wrong decision that worked · Founders
+- 2026-11-12 · [A sunk-cost nudge that died on YouTube](../cards/2026/11/2026-11-12-03-sunk-cost-nudge-died-youtube.md) · 2 Shocking number · Psychology

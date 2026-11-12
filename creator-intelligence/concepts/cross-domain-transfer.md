@@ -14,3 +14,6 @@ Also known as: cross-industry learning, analogical problem solving
 - 2026-11-08 · [Daniel Ek's 500-Hour Rule](../cards/2026/11/2026-11-08-01-daniel-ek-500-hour-rule.md) · 8 Unexpected claim · Founders
 - 2026-11-08 · [Wildfire Command Borrowed a Management Book](../cards/2026/11/2026-11-08-25-wildfire-command-management-book.md) · 7 Far-field · Founders
 - 2026-11-10 · [Blackjack math built a hedge fund](../cards/2026/11/2026-11-10-21-blackjack-math-hedge-fund.md) · 7 Far-field · Founders
+- 2026-11-12 · [Petzoldt ranked the summit third, not first](../cards/2026/11/2026-11-12-05-petzoldt-nine-rules-not-summit.md) · 7 Far-field · Founders
+- 2026-11-12 · [A submarine officer redesigned the hospital handoff](../cards/2026/11/2026-11-12-13-sbar-submarine-hospital-handoff.md) · 7 Far-field · Founders
+- 2026-11-12 · [A judo move became a business-school strategy](../cards/2026/11/2026-11-12-22-judo-strategy-business.md) · 7 Far-field · Founders

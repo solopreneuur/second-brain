@@ -17,3 +17,4 @@ Also known as: commitment device
 - 2026-11-08 · [Chick-fil-A Never Calculated the Cost](../cards/2026/11/2026-11-08-13-chick-fil-a-never-calculated.md) · 3 Wrong decision that worked · Founders
 - 2026-11-09 · [Chouinard killed his best-selling product](../cards/2026/11/2026-11-09-12-chouinard-killed-pitons.md) · 3 Wrong decision that worked · Founders
 - 2026-11-09 · [Oda vowed to skip his parents' funeral](../cards/2026/11/2026-11-09-14-oda-funeral-vow.md) · Unshaped · Founders
+- 2026-11-12 · [Superhuman grew on purpose at 100 users a week](../cards/2026/11/2026-11-12-23-superhuman-grew-100-week.md) · 3 Wrong decision that worked · Founders

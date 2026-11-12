@@ -11,3 +11,4 @@ Also known as: -
 - 2026-11-05 · [Same price, new label, 90% more sales](../cards/2026/11/2026-11-05-30-unit-price-vs-per-pound-sales-lift.md) · 2 Shocking number · Marketing
 - 2026-11-07 · [A $199,000 house sells for more](../cards/2026/11/2026-11-07-11-199000-house-anchor.md) · 2 Shocking number · Marketing
 - 2026-11-11 · [Judges roll dice before sentencing](../cards/2026/11/2026-11-11-01-judges-roll-dice-sentence.md) · 2 Shocking number · Psychology
+- 2026-11-12 · [Showing the price first only helps a real bargain](../cards/2026/11/2026-11-12-27-karmarkar-price-first-backfire.md) · 2 Shocking number · Psychology
