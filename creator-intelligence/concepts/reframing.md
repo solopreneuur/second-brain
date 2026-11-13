@@ -14,3 +14,4 @@ Also known as: framing
 - 2026-11-08 · [Buick's Ads Doubted Buick](../cards/2026/11/2026-11-08-20-buick-ads-doubt-buick.md) · 3 Wrong decision that worked · Marketing
 - 2026-11-08 · [Germany's Bottle Deposit Backfired Into Success](../cards/2026/11/2026-11-08-29-germany-bottle-deposit-backfire.md) · 4 Tiny change, big result · Marketing
 - 2026-11-09 · ["Request pricing" beat "Request a quote"](../cards/2026/11/2026-11-09-22-veeam-request-pricing.md) · 4 Tiny change, big result · Marketing
+- 2026-11-13 · [Pot Noodle apologized with 49 versions of the insult](../cards/2026/11/2026-11-13-20-pot-noodle-sorry-for-slurping.md) · 3 Wrong decision that worked · Marketing

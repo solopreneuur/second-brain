@@ -10,3 +10,4 @@ Also known as: informational social influence
 - 2026-11-04 · [A letter beat an antibiotics lecture](../cards/2026/11/2026-11-04-23-antibiotic-letters-cut-prescriptions.md) · 4 Tiny change, big result · Psychology
 - 2026-11-04 · [Social proof lost every single test](../cards/2026/11/2026-11-04-28-social-proof-zero-win-ab-tests.md) · 2 Shocking number · Marketing
 - 2026-11-05 · [One word doubled a beauty site](../cards/2026/11/2026-11-05-08-nyx-purchased-vs-viewed.md) · 4 Tiny change, big result · Marketing
+- 2026-11-13 · ["It's customary to tip" beats every other tip message](../cards/2026/11/2026-11-13-12-tip-messages-norms-beat-reciprocity.md) · 2 Shocking number · Marketing
