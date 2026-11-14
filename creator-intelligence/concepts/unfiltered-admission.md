@@ -6,3 +6,4 @@ Also known as: -
 ## Cards
 
 - 2026-11-13 · [A Google exec's notes compared search ads to cigarettes](../cards/2026/11/2026-11-13-28-google-exec-tear-economics-textbook.md) · 1 Hidden reason · Marketing
+- 2026-11-14 · [Boeing's "jedi mind trick" text](../cards/2026/11/2026-11-14-01-boeing-jedi-mind-trick-text.md) · 1 Hidden reason · Founders

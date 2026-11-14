@@ -6,3 +6,4 @@ Also known as: the replication gap
 ## Cards
 
 - 2026-11-02 · [Real-world nudges work 6x smaller than the lab says](../cards/2026/11/2026-11-02-21-nudges-shrink-at-scale.md) · 2 Shocking number · Psychology
+- 2026-11-14 · [Stalin's scientist faked potato yields](../cards/2026/11/2026-11-14-06-lysenko-faked-potato-yields.md) · 2 Shocking number · Psychology

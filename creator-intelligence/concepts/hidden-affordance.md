@@ -7,3 +7,5 @@ Also known as: -
 
 - 2026-11-13 · [That hole in your pan handle has a second job](../cards/2026/11/2026-11-13-14-frying-pan-handle-hole-spoon-rest.md) · 1 Hidden reason · Marketing
 - 2026-11-13 · [The dome on your coffee lid is patented ergonomics](../cards/2026/11/2026-11-13-23-coffee-lid-dome-patent-drinking-safely.md) · 5 Unknown origin · Marketing
+- 2026-11-14 · [The hole in a pen cap isn't for air](../cards/2026/11/2026-11-14-14-pen-cap-hole-is-not-for-air.md) · 1 Hidden reason · Marketing
+- 2026-11-14 · [The fridge with no door](../cards/2026/11/2026-11-14-17-open-fridge-air-curtain.md) · 6 Day-walk · Marketing

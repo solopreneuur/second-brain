@@ -6,3 +6,4 @@ Also known as: -
 ## Cards
 
 - 2026-11-13 · [Analysts called Son's $32B chip bet incoherent](../cards/2026/11/2026-11-13-15-softbank-arm-crazy-idea.md) · 3 Wrong decision that worked · Founders
+- 2026-11-14 · [Vanguard's index fund, "Bogle's Folly"](../cards/2026/11/2026-11-14-09-vanguard-bogles-folly.md) · 3 Wrong decision that worked · Founders

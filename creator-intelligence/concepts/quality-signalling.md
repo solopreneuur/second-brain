@@ -10,3 +10,4 @@ Also known as: costly signalling
 - 2026-11-04 · [Hermès' bag-buying "lottery" survives court](../cards/2026/11/2026-11-04-18-hermes-bag-buying-lottery-lawsuit.md) · 1 Hidden reason · Founders
 - 2026-11-05 · [Watermelons needed a laser label](../cards/2026/11/2026-11-05-04-watermelon-laser-quality-label.md) · 2 Shocking number · Marketing
 - 2026-11-09 · [Booking.com sells more showing sold-out rooms](../cards/2026/11/2026-11-09-27-booking-sold-out-rooms.md) · 2 Shocking number · Marketing
+- 2026-11-14 · [A champagne house destroyed a vintage](../cards/2026/11/2026-11-14-18-dom-perignon-scraps-vintage.md) · 3 Wrong decision that worked · Founders

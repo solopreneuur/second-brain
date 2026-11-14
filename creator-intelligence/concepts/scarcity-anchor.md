@@ -7,3 +7,4 @@ Also known as: -
 
 - 2026-11-11 · [KFC sold more chips by limiting them](../cards/2026/11/2026-11-11-11-kfc-limit-4-chips.md) · 2 Shocking number · Marketing
 - 2026-11-13 · [e.l.f. and Liquid Death sold out in 45 minutes](../cards/2026/11/2026-11-13-17-elf-liquid-death-corpse-paint-sellout.md) · 2 Shocking number · Marketing
+- 2026-11-14 · [Target capped formula at exactly four](../cards/2026/11/2026-11-14-23-target-four-unit-formula-cap.md) · 2 Shocking number · Marketing
