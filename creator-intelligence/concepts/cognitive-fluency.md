@@ -11,3 +11,4 @@ Also known as: processing fluency
 - 2026-11-09 · [Easy usernames make strangers look honest](../cards/2026/11/2026-11-09-26-ebay-username-fluency-trust.md) · 4 Tiny change, big result · Psychology
 - 2026-11-10 · [A hard font cured a false belief](../cards/2026/11/2026-11-10-23-hard-font-cured-false-belief.md) · 2 Shocking number · Psychology
 - 2026-11-11 · [An easy-to-say drug name raised doses](../cards/2026/11/2026-11-11-30-easy-drug-name-overdose.md) · 9 Unfamiliar concept · Psychology
+- 2026-11-15 · [Jargon makes jurors vote guilty](../cards/2026/11/2026-11-15-08-legal-jargon-guilty-verdicts.md) · 3 Wrong decision that worked · Psychology

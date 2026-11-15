@@ -12,3 +12,4 @@ Also known as: status quo bias
 - 2026-11-07 · [One checkbox flip raised giving eightfold](../cards/2026/11/2026-11-07-21-charity-default-eightfold.md) · 4 Tiny change, big result · Psychology
 - 2026-11-08 · [Announcing a Nudge Made It Work](../cards/2026/11/2026-11-08-18-standing-desk-default-announced.md) · 4 Tiny change, big result · Psychology
 - 2026-11-12 · [A railway found $40 million in one checkbox](../cards/2026/11/2026-11-12-14-railway-checkbox-forty-million.md) · 4 Tiny change, big result · Marketing
+- 2026-11-15 · [One default saved failing grades](../cards/2026/11/2026-11-15-14-dc-schools-default-alert.md) · 4 Tiny change, big result · Psychology
