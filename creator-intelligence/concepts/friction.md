@@ -8,3 +8,5 @@ What it is: Any effort, cost or hesitation between a person and an action; small
 - 2026-11-03 · [Costco's co-founder calls his own layout "manipulative"](../cards/2026/11/2026-11-03-23-costco-maze-no-signs.md) · 1 Hidden reason · Marketing
 - 2026-11-06 · [One error prompt halved mistakes](../cards/2026/11/2026-11-06-21-australia-form-error-prompts.md) · 4 Tiny change, big result · Psychology
 - 2026-11-08 · [Three Tweaks, a 46-Fold Jump](../cards/2026/11/2026-11-08-15-hospital-sanitizer-46-fold.md) · 4 Tiny change, big result · Psychology
+- 2026-11-16 · [A small-city doctor invented the childproof cap](../cards/2026/11/2026-11-16-17-breault-childproof-cap.md) · 6 Day-walk · Psychology
+- 2026-11-16 · [Facebook had a name for defrauding kids](../cards/2026/11/2026-11-16-19-facebook-friendly-fraud-kids.md) · 1 Hidden reason · Founders

@@ -6,3 +6,4 @@ Also known as: self-fulfilling prophecy
 ## Cards
 
 - 2026-11-15 · [OkCupid lied about your match](../cards/2026/11/2026-11-15-22-okcupid-fake-match-scores.md) · 2 Shocking number · Marketing
+- 2026-11-16 · [Detection dogs smelled what handlers believed](../cards/2026/11/2026-11-16-01-detection-dogs-smell-belief.md) · 7 Far-field · Psychology

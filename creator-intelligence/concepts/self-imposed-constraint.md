@@ -19,3 +19,4 @@ Also known as: commitment device
 - 2026-11-09 · [Oda vowed to skip his parents' funeral](../cards/2026/11/2026-11-09-14-oda-funeral-vow.md) · Unshaped · Founders
 - 2026-11-12 · [Superhuman grew on purpose at 100 users a week](../cards/2026/11/2026-11-12-23-superhuman-grew-100-week.md) · 3 Wrong decision that worked · Founders
 - 2026-11-13 · [Ferrari's revenue grows while its car count barely does](../cards/2026/11/2026-11-13-24-ferrari-caps-production-on-purpose.md) · Unshaped · Founders
+- 2026-11-16 · [A court ruled "refusing to get rich" was legal](../cards/2026/11/2026-11-16-18-craigslist-insane-business-model.md) · 3 Wrong decision that worked · Marketing

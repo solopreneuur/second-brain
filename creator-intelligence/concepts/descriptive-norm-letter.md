@@ -6,3 +6,4 @@ Also known as: -
 ## Cards
 
 - 2026-11-11 · [One sentence beat years of fine threats](../cards/2026/11/2026-11-11-18-parking-letter-beats-enforcement.md) · 4 Tiny change, big result · Psychology
+- 2026-11-16 · [One sentence collected 2.7 million pounds](../cards/2026/11/2026-11-16-10-medway-tax-letter-96-percent.md) · 4 Tiny change, big result · Psychology
