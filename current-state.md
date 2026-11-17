@@ -28,6 +28,18 @@ Relevant to where content is headed. Temporary home here; he plans a separate bu
 - Starting point: meet people at both kinds (agencies and influencer marketing agencies), at minimum.
 - As he grows as a creator, these people will come to him. The risk: being seen only as a creator, not taken seriously as a founder (his "Kanye West situation"). Events with other people in the space and with brands build that founder credibility; similar to Toni's playbook.
 
+### His landscape map (handwritten, Nov 17)
+- Flow he drew: ad spend → brands → (direct) Google/Meta; → talent agencies → creators → Google/Meta; → AI labs ("on the come up") → consumers (ads? or per-month cost). Data flows back up: creators → agencies, AI labs hold "data on spend". Side branch: capital strategy / PE roll-up of talent agencies ("slot in AI in the return", "maybe money", "take cut"). Question marks: do AI labs sell data? Is going through talent agencies "well working"? Is the creator market working?
+- Eric: "network building will be huge" (India? China?).
+- Me: "language moat isn't my moat." Current asset: creator/content on the way. Relationships = leverage.
+- Types of people to build rls with:
+  - Capital leverage → investors, PE, Tamer connects
+  - Talent leverage → AI researchers, cracked AI kids, cofounder?
+  - Direct brand rls → in-house agencies that decide spend?
+  - Talent agencies → more creators, partnerships ("but can that help me too? with brands?")
+- How: reach in person via conferences, hosting ("charisma is my personal moat"); digitally via reach-out and personal content.
+- Open questions he wrote: Will AI labs, with their capital, acquire ad-spend data, and will creator-marketing data matter? Do AI ads work the same as search ads? If OpenAI partners with traditional media buyers (Publicis types) and data aggregators, who does Anthropic partner with? Technical challenges of product placements? How will attribution work (cookie/pixel)? Who will they send data to; will brands just push campaigns? How do you run a campaign in an LLM without messing with a probabilistic model; is it different when someone is explicitly shopping vs. just talking?
+
 ## Theme he's drawn to
 - Founders/business + human behavior: studying greats, business case studies, psychology, plus his own perspective. Hasn't found one specific thing to teach yet.
 - Admires Nick Tarmo and Bitter Builds (information-based, similar ICP, especially Nick). Doesn't understand how Nick ties his profile together; Nick's bio is abstract too.
