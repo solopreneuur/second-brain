@@ -46,6 +46,8 @@ Relevant to where content is headed. Temporary home here; he plans a separate bu
 - Talk to Jabari (spelling unclear; closest person he knows in the space), Ally, Naomi, Nidi, just to get an idea.
 - Talk to Tamer about his PE people, roll-ups, talent agencies.
 - Get fluent on agencies, AI-native agencies, and roll-ups in other industries and how they're going.
+- From his map pages: build rls with Eric's network (India? China?); meet investors/PE (via Tamer), AI researchers and cracked AI kids (possible cofounder), in-house brand teams that decide spend, and talent agencies (ask whether they can help with brands too); reach people in person (conferences, hosting) and digitally (reach-out, personal content).
+- Keep tracking his open questions: do AI labs want creator-marketing data or sell spend data; AI ads vs search; who partners with whom; how ads/product placement and attribution work in AI; whether the talent-agency route is working.
 
 ## Theme he's drawn to
 - Founders/business + human behavior: studying greats, business case studies, psychology, plus his own perspective. Hasn't found one specific thing to teach yet.
