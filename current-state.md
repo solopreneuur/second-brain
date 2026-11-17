@@ -40,6 +40,13 @@ Relevant to where content is headed. Temporary home here; he plans a separate bu
 - How: reach in person via conferences, hosting ("charisma is my personal moat"); digitally via reach-out and personal content.
 - Open questions he wrote: Will AI labs, with their capital, acquire ad-spend data, and will creator-marketing data matter? Do AI ads work the same as search ads? If OpenAI partners with traditional media buyers (Publicis types) and data aggregators, who does Anthropic partner with? Technical challenges of product placements? How will attribution work (cookie/pixel)? Who will they send data to; will brands just push campaigns? How do you run a campaign in an LLM without messing with a probabilistic model; is it different when someone is explicitly shopping vs. just talking?
 
+### For when he's back (his notes, Nov 17)
+- His point: a unique part of being a creator is that people come to you and spend money on you, agencies and brands both (different departments). Justifies moving content a bit more toward AI-based content; also opens events and market touchpoints, and it's bidirectional: he goes to events himself and can make intros between entities (e.g. a brand's direct person to an agency he vouches for).
+- Find AI-native agencies.
+- Talk to Jabari (spelling unclear; closest person he knows in the space), Ally, Naomi, Nidi, just to get an idea.
+- Talk to Tamer about his PE people, roll-ups, talent agencies.
+- Get fluent on agencies, AI-native agencies, and roll-ups in other industries and how they're going.
+
 ## Theme he's drawn to
 - Founders/business + human behavior: studying greats, business case studies, psychology, plus his own perspective. Hasn't found one specific thing to teach yet.
 - Admires Nick Tarmo and Bitter Builds (information-based, similar ICP, especially Nick). Doesn't understand how Nick ties his profile together; Nick's bio is abstract too.
