@@ -29,7 +29,22 @@ Relevant to where content is headed. Temporary home here; he plans a separate bu
 - As he grows as a creator, these people will come to him. The risk: being seen only as a creator, not taken seriously as a founder (his "Kanye West situation"). Events with other people in the space and with brands build that founder credibility; similar to Toni's playbook.
 
 ### His landscape map (handwritten, Nov 17)
-- Flow he drew: ad spend → brands → (direct) Google/Meta; → talent agencies → creators → Google/Meta; → AI labs ("on the come up") → consumers (ads? or per-month cost). Data flows back up: creators → agencies, AI labs hold "data on spend". Side branch: capital strategy / PE roll-up of talent agencies ("slot in AI in the return", "maybe money", "take cut"). Question marks: do AI labs sell data? Is going through talent agencies "well working"? Is the creator market working?
+Money flow:
+- Ad spend → brands, which send it:
+  - direct → Google, Meta
+  - → talent agencies ("well working?") → creators → Google, Meta
+  - → creators ("market?")
+  - → AI labs ("on the come up")
+Data flow (back up the chain):
+- creators → talent agencies (data)
+- talent agencies → up the chain (data)
+- AI labs hold data on ad spend ("sell data?")
+AI labs ↔ consumers:
+- AI labs → consumers: ads?
+- consumers → AI labs: per-month cost
+Capital side:
+- PE roll-up of talent agencies: buy them, slot in AI, take a cut of the return ("maybe money")
+His position:
 - Eric: "network building will be huge" (India? China?).
 - Me: "language moat isn't my moat." Current asset: creator/content on the way. Relationships = leverage.
 - Types of people to build rls with:
