@@ -1,6 +1,6 @@
 # Current state
 
-_Last updated 2026-10-19_
+_Last updated 2026-11-17_
 
 ## Priorities right now
 1. Understand why the videos so far did or didn't work (views, breaking 10k, follower conversion).
@@ -17,6 +17,16 @@ Three levels of certainty:
 
 - Working version (from question to Mino): 21-year-old internet native, super ambitious aspiring entrepreneur, not necessarily building anything yet, obsessed with learning about business and improving his own habits.
 - Wants the eventual answer dead simple, like Soojin ("young women who want to stay up to date with AI").
+
+## Business direction: agencies (Nov 17)
+Relevant to where content is headed. Temporary home here; he plans a separate business section/skill later, possibly pulling from his notes.
+- Thinks agencies will be important in the future. They're pre-built distribution.
+- Wants to build rls with agency owners. Doesn't know how yet.
+- His read (stated as bets/assumptions, not facts): agencies are "starting to get bodied little by little" and are hunting for ways to grow or break out of their current margins; "not a great business but also not a bad one"; owners are probably great people-persons but maybe not operators.
+- Either way, agencies will be a piece he uses somehow.
+- Influencer marketing agencies too: they also have data.
+- Starting point: meet people at both kinds (agencies and influencer marketing agencies), at minimum.
+- As he grows as a creator, these people will come to him. The risk: being seen only as a creator, not taken seriously as a founder (his "Kanye West situation"). Events with other people in the space and with brands build that founder credibility; similar to Toni's playbook.
 
 ## Theme he's drawn to
 - Founders/business + human behavior: studying greats, business case studies, psychology, plus his own perspective. Hasn't found one specific thing to teach yet.
