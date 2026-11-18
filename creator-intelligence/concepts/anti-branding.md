@@ -9,3 +9,4 @@ Also known as: generic branding
 - 2026-11-06 · [Burger King's rotting Whopper ad](../cards/2026/11/2026-11-06-02-burger-king-moldy-whopper.md) · 3 Wrong decision that worked · Marketing
 - 2026-11-07 · [Investors called the name "too dumb to fund"](../cards/2026/11/2026-11-07-05-liquid-death-dumbest-name.md) · 3 Wrong decision that worked · Marketing
 - 2026-11-09 · [Specsavers made its own ads look bad](../cards/2026/11/2026-11-09-10-specsavers-lost-ladder.md) · 3 Wrong decision that worked · Marketing
+- 2026-11-18 · [Oatly sold shirts mocking its ad](../cards/2026/11/2026-11-18-30-oatly-sold-shirts-mocking-its-ad.md) · 3 Wrong decision that worked · Marketing

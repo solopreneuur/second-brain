@@ -20,3 +20,4 @@ Also known as: -
 - 2026-11-16 · [Flat-pack began with a table that wouldn't fit](../cards/2026/11/2026-11-16-11-ikea-flat-pack-car-trunk.md) · 1 Hidden reason · Founders
 - 2026-11-16 · [Barbie's company started by selling picture frames](../cards/2026/11/2026-11-16-15-mattel-started-as-picture-frames.md) · 5 Unknown origin · Founders
 - 2026-11-16 · [The tool built to make the product outlived it](../cards/2026/11/2026-11-16-27-andrew-mason-detour-descript.md) · 5 Unknown origin · Marketing
+- 2026-11-18 · [Flickr began inside a dead game](../cards/2026/11/2026-11-18-06-flickr-began-inside-dead-game.md) · 5 Unknown origin · Founders
