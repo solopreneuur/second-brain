@@ -6,3 +6,4 @@ Also known as: -
 ## Cards
 
 - 2026-11-14 · [iPhone's chime was a CD-burn alert](../cards/2026/11/2026-11-14-02-iphone-chime-was-cd-burn-alert.md) · 1 Hidden reason · Marketing
+- 2026-11-20 · [Myers-Briggs' first buyer was wartime spies](../cards/2026/11/2026-11-20-06-myers-briggs-wartime-spies.md) · 5 Unknown origin · Psychology

@@ -7,3 +7,4 @@ Also known as: blameless culture, just culture
 
 - 2026-11-13 · [Why Google's outage reviews blame no one](../cards/2026/11/2026-11-13-04-aviation-no-fault-rule-google-sre.md) · 7 Far-field · Founders
 - 2026-11-15 · [NASA runs aviation's confession line](../cards/2026/11/2026-11-15-10-nasa-asrs-confidential-reports.md) · 7 Far-field · Founders
+- 2026-11-20 · [The warship sank over an email no one sent](../cards/2026/11/2026-11-20-21-vasa-myth-historians-debunked.md) · 5 Unknown origin · Psychology

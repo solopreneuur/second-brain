@@ -6,3 +6,4 @@ Also known as: -
 ## Cards
 
 - 2026-11-10 · [BioShock's hidden push toward its shop](../cards/2026/11/2026-11-10-10-bioshock-hidden-vending-nudge.md) · 1 Hidden reason · Marketing
+- 2026-11-20 · [Games secretly lie to protect you](../cards/2026/11/2026-11-20-08-games-that-secretly-lie-to-you.md) · 1 Hidden reason · Marketing

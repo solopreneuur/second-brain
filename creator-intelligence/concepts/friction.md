@@ -10,3 +10,4 @@ What it is: Any effort, cost or hesitation between a person and an action; small
 - 2026-11-08 · [Three Tweaks, a 46-Fold Jump](../cards/2026/11/2026-11-08-15-hospital-sanitizer-46-fold.md) · 4 Tiny change, big result · Psychology
 - 2026-11-16 · [A small-city doctor invented the childproof cap](../cards/2026/11/2026-11-16-17-breault-childproof-cap.md) · 6 Day-walk · Psychology
 - 2026-11-16 · [Facebook had a name for defrauding kids](../cards/2026/11/2026-11-16-19-facebook-friendly-fraud-kids.md) · 1 Hidden reason · Founders
+- 2026-11-20 · [Sonos added friction to checkout on purpose](../cards/2026/11/2026-11-20-23-sonos-added-checkout-steps.md) · 4 Tiny change, big result · Marketing

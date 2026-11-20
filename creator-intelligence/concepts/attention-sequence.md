@@ -6,3 +6,4 @@ Also known as: focus-authority-tribe-emotion.
 ## Cards
 
 - 2026-11-18 · [The behavior expert's MrBeast theory](../cards/2026/11/2026-11-18-03-chase-hughes-mrbeast-theory.md) · 8 Unexpected claim · Marketing
+- 2026-11-20 · [Netflix thumbnails swing viewing 20-30%](../cards/2026/11/2026-11-20-11-netflix-thumbnails-swing-viewership.md) · 2 Shocking number · Marketing

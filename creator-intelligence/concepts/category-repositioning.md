@@ -6,3 +6,4 @@ Also known as: -
 ## Cards
 
 - 2026-11-18 · [Listerine was once a floor cleaner](../cards/2026/11/2026-11-18-28-listerine-was-a-floor-cleaner.md) · 5 Unknown origin · Marketing
+- 2026-11-20 · [Listerine was sold as a gonorrhea cure](../cards/2026/11/2026-11-20-07-listerine-gonorrhea-treatment.md) · 5 Unknown origin · Marketing
