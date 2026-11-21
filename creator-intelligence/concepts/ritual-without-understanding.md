@@ -8,3 +8,4 @@ Also known as: -
 - 2026-11-06 · [The scurvy cure that got lost](../cards/2026/11/2026-11-06-04-scurvy-forgotten-cure.md) · 7 Far-field · Psychology
 - 2026-11-11 · [Tesla's 12-page loan needed zero pages](../cards/2026/11/2026-11-11-09-tesla-loan-zero-required-clauses.md) · 1 Hidden reason · Founders
 - 2026-11-16 · [Sweden's coffee break survived five bans](../cards/2026/11/2026-11-16-05-fika-coffee-ban-code-word.md) · 1 Hidden reason · Marketing
+- 2026-11-21 · [Britain's Pub Hours Were a War Tactic](../cards/2026/11/2026-11-21-27-uk-pub-hours-wartime-sobriety.md) · 1 Hidden reason · Psychology

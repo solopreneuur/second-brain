@@ -9,3 +9,4 @@ Also known as: -
 - 2026-11-14 · [Boeing's "jedi mind trick" text](../cards/2026/11/2026-11-14-01-boeing-jedi-mind-trick-text.md) · 1 Hidden reason · Founders
 - 2026-11-16 · [Google's own memo called its fee "irrational"](../cards/2026/11/2026-11-16-04-google-irrationally-high-rent.md) · 1 Hidden reason · Marketing
 - 2026-11-16 · [A CEO admitted his own weak spot before a huge bet](../cards/2026/11/2026-11-16-29-constellation-software-letter.md) · 3 Wrong decision that worked · Founders
+- 2026-11-21 · [The Gluten Doctor Doubts Himself](../cards/2026/11/2026-11-21-15-perlmutter-misdiagnosed-himself.md) · 8 Unexpected claim · Psychology

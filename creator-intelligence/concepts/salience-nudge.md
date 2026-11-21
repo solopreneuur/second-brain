@@ -13,3 +13,5 @@ Also known as: -
 - 2026-11-13 · [Drive-thru menus are built around eye-tracking data](../cards/2026/11/2026-11-13-29-drive-thru-menuboard-eye-tracking.md) · 1 Hidden reason · Marketing
 - 2026-11-16 · [A 184 million dollar letter about prison time](../cards/2026/11/2026-11-16-13-dominican-republic-tax-nudge.md) · 2 Shocking number · Marketing
 - 2026-11-20 · [One "New" badge lifted revenue 30%](../cards/2026/11/2026-11-20-26-alivecor-new-badge.md) · 4 Tiny change, big result · Marketing
+- 2026-11-21 · [Timing Beat Clever Wording](../cards/2026/11/2026-11-21-09-beta-sms-timing-beats-wording.md) · 4 Tiny change, big result · Psychology
+- 2026-11-21 · [One Button, Moved, Doubled Itself](../cards/2026/11/2026-11-21-23-stripe-moved-a-button-doubled-lift.md) · 2 Shocking number · Marketing

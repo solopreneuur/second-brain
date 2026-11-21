@@ -15,3 +15,4 @@ Also known as: -
 - 2026-11-10 · [Oatly built a site of its scandals](../cards/2026/11/2026-11-10-22-oatly-owns-its-scandals.md) · 8 Unexpected claim · Marketing
 - 2026-11-11 · [Fitness ads that showed sweat, not polish](../cards/2026/11/2026-11-11-17-this-girl-can-sweaty-ads.md) · 3 Wrong decision that worked · Marketing
 - 2026-11-16 · [A hacked company said sorry and donated the ransom](../cards/2026/11/2026-11-16-16-checkout-com-ransom-donation.md) · 3 Wrong decision that worked · Marketing
+- 2026-11-21 · [A Winery Printed Its Own Margin](../cards/2026/11/2026-11-21-14-winery-printed-its-margin.md) · 3 Wrong decision that worked · Marketing

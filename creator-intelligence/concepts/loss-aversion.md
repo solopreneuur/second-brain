@@ -10,3 +10,4 @@ Also known as: -
 - 2026-11-08 · [Half of America Isn't Loss Averse](../cards/2026/11/2026-11-08-04-half-of-america-not-loss-averse.md) · 2 Shocking number · Psychology
 - 2026-11-09 · [Pros putt safer to save par](../cards/2026/11/2026-11-09-04-pga-putts-loss-aversion.md) · 2 Shocking number · Psychology
 - 2026-11-11 · [Marathoners sprint to dodge a round number](../cards/2026/11/2026-11-11-14-marathon-runners-dodge-round-number.md) · 2 Shocking number · Psychology
+- 2026-11-21 · [Sellers Who Refused to Take a Loss](../cards/2026/11/2026-11-21-30-condo-sellers-overpriced-for-loss.md) · 2 Shocking number · Founders
